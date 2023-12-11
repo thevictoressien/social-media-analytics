@@ -4,9 +4,17 @@
 
 This project involves a comprehensive analysis of a company's social media performance over a ten-year period. Data was acquired from the company and is separated into four CSV files corresponding to Facebook, Instagram, LinkedIn, and Twitter. Python, along with Matplotlib and Seaborn, was used for data loading, cleaning, exploration, and visualization. The analysis aims to provide actionable insights to enhance the client's social media strategy and digital marketing efforts.
 
-## Executive Summary
+## Questions Asked
 
-This report presents key findings derived from the comprehensive analysis of the client's social media performance:
+1. **How have impressions and engagements fared over the years?**
+2. **What are the peak times for user engagement across different social media platforms?**
+3. **How does the engagement rate vary with the time of the day and day of the week?**
+4. **Which types of content receive the highest average engagement rates?**
+5. **What are the key factors contributing to the top-performing posts in terms of engagement?**
+6. **Is there a correlation between the time of posting and the number of engagements?**
+7. **How do engagement rates differ across social media platforms (e.g., Facebook, Instagram, Twitter, and LinkedIn)?**
+
+## Key Findings
 
 ### Peak Engagement Times
 
