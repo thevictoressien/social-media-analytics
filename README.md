@@ -32,7 +32,5 @@ This project involves a comprehensive analysis of a company's social media perfo
 
 - Facebook remains the most prominent platform, providing the highest engagement, followed by Twitter and Instagram. LinkedIn produces the least engagement, and Facebook also boasts the highest engagement rate.
 
-### Top Performing Posts
-
-- The report identifies the top-performing posts based on their engagement rate.
-
+## Report
+A comprehensive report can be found [here](https://drive.google.com/file/d/1cQFJAXFOrc4D4q-PId2cGugqNCVC9TvG/view?usp=sharing)
